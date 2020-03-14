@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="CustomX" max_length="40" name="customx" type="collection">
+        <element label="Int1" max_length="40" name="int1" type="string"/>
+        <element label="Str1" max_length="40" name="str1" type="string"/>
+    </element>
+</database>

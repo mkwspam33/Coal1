@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="customx" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>int1</element>
+            <list_id display_value="customx" element="NULL" name="customx" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">18d6a2a94c630010f8770af6e53f8ea7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-14 14:37:56</sys_created_on>
+            <sys_id>dcd6a2a94c630010f8770af6e53f8ea8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-14 14:37:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>str1</element>
+            <list_id display_value="customx" element="NULL" name="customx" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">18d6a2a94c630010f8770af6e53f8ea7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-14 14:37:56</sys_created_on>
+            <sys_id>94d6a2a94c630010f8770af6e53f8ea9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-14 14:37:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_by</element>
+            <list_id display_value="customx" element="NULL" name="customx" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">18d6a2a94c630010f8770af6e53f8ea7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-14 14:37:56</sys_created_on>
+            <sys_id>18d6a2a94c630010f8770af6e53f8ea9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-14 14:37:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_on</element>
+            <list_id display_value="customx" element="NULL" name="customx" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">18d6a2a94c630010f8770af6e53f8ea7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-14 14:37:56</sys_created_on>
+            <sys_id>98d6a2a94c630010f8770af6e53f8ea9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-14 14:37:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>customx</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-14 14:37:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>18d6a2a94c630010f8770af6e53f8ea7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>customx</sys_name>
+            <sys_package display_value="Global" source="global">global</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Coal1">86366aa54c630010f8770af6e53f8e73</sys_scope>
+            <sys_update_name>sys_ui_list_customx_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-14 14:37:56</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Coal1">86366aa54c630010f8770af6e53f8e73</claim_owner_scope>
+        <claim_timestamp>170d97a04df0000001</claim_timestamp>
+        <metadata_update_name>sys_ui_list_customx_null</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>Coal1</previous_claim_name>
+        <previous_claim_scope>86366aa54c630010f8770af6e53f8e73</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-14 14:36:57</sys_created_on>
+        <sys_id>bd96a6694c630010f8770af6e53f8e67</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-14 14:36:57</sys_updated_on>
+    </sys_claim>
+</record_update>
